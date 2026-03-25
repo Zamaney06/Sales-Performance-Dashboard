@@ -72,6 +72,7 @@ The business is delivering robust, high-margin expansion, with **Sales up 30%** 
 * **Outsized Profitability:** Profit growth (**+34%**) is outstripping sales growth, confirming that the business is becoming more profitable as it scales.
 * **Volume Expansion:** Quantity sold is **up 24% (899 units)**, showing a healthy increase in physical moving units alongside financial gains.
 * **Cost Optimization:** The Total Cost (**$64.0k**) increased by only **11% VS LY**, suggesting successful vendor negotiations or reduced per-unit overhead.
+<img width="407" height="217" alt="image" src="https://github.com/user-attachments/assets/c179415b-285b-4d42-bd61-cf635ba74944" />
 
 ---
 
