@@ -90,6 +90,7 @@ The business is delivering robust, high-margin expansion, with **Sales up 30%** 
 * **Growth Drivers:** The **Monitor and Mouse** categories represent the highest revenue contributors, with Monitors alone nearing the **$110k** mark for 2024. These are the most effective product lines for driving the current year’s value surge.
 * **Stable Performers:** **Laptops** maintain a consistent contribution, showing steady demand without the high volatility seen in smaller electronic devices.
 * **Lagging Categories:** **Printers** show lower volume compared to the leaders, suggesting a need for revised bundling strategies (e.g., pairing printers with laptops) to lift this segment.
+<img width="453" height="171" alt="image" src="https://github.com/user-attachments/assets/2cc8fef3-61bf-4dff-ad57-2d7eedf47f8a" />
 
 ---
 
