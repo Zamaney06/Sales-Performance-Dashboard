@@ -81,6 +81,7 @@ The business is delivering robust, high-margin expansion, with **Sales up 30%** 
 * **Core Hardware Reliance:** **Monitors and Mouse** units are the standout primary drivers of sales volume. Their dominant position in the distribution chart confirms that these electronic devices are the most optimized sales categories with the strongest consumer pull.
 * **Secondary Categories:** **Laptops and Printers** contribute moderate volumes. While stable, they represent a significant opportunity for growth if the marketing strategies used for high-performing peripherals are applied here.
 * **Underperformers:** **Keyboards and Headphones** show lower relative volume. Specifically, Keyboards appear to be the only category struggling to significantly surpass 2023 levels, indicating a potential market saturation or a need for a product refresh.
+<img width="406" height="171" alt="image" src="https://github.com/user-attachments/assets/43ffc370-de62-484a-bbe6-520f32505516" />
 
 ---
 
