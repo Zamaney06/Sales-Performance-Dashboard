@@ -38,3 +38,25 @@ The project leverages **Advanced Excel Functions** and **Pivot Table calculation
 1.  **Slicers:** Use the top-right buttons to toggle between **Accessories** and **Electronics**.
 2.  **KPI Cards:** Monitor the green/blue indicators to see real-time growth percentages against Last Year (LY).
 3.  **Trend Lines:** Hover over the line chart to see specific monthly revenue values for both fiscal years.
+
+## Data Structure & Initial Checks
+
+### Data Overview
+The analysis was built entirely within a **single Excel workbook**, using a standard Excel Data Table as the source for all PivotTables and calculations. No data was loaded into the Power Pivot Data Model—all work was completed using native **Excel functionality** to demonstrate core spreadsheet competency and high-performance dashboarding within a flat-file environment.
+
+### Data Cleaning and Preparation
+The data cleaning and preparation process utilized native Excel tools, Pivot Tables, and Standard Excel Formulas to derive the core dashboard insights.
+
+* **Data Quality:** The raw transactional data was audited for duplicates and missing values before being converted into a structured Excel Table. This ensured that the **$475.6k Total Sales** and **$411.6k Profit** figures were grounded in accurate, verified records.
+* **Field Engineering:** Helper columns were created using text and date functions to standardize product categories and extract fiscal periods (Year/Month) for the trend analysis. This allowed for the seamless comparison of 2023 vs. 2024 across the **Monthly Revenue Trend** chart.
+* **Aggregation:** Pivot Tables were used exclusively to aggregate quantity units and revenue figures across various dimensions, such as **Regional Sales Distribution** and **Product-wise Sales Breakdowns**.
+* **Time Intelligence (Calculated Measures):** All core KPIs, including **+30% VS LY Sales**, **+24% VS LY Quantity**, and **+34% VS LY Profit**, were derived using Calculated Fields and formula-based helper tables within the Excel workbook. This approach allowed for dynamic period comparisons and the creation of the integrated sparklines without relying on the Power Pivot Data Model.
+
+---
+
+### Technical Highlights
+* **Dynamic Visuals:** Leveraged Excel’s shape-based design and conditional formatting to create a high-contrast "Dark Mode" UI.
+* **Native Slicers:** Implemented interactive slicers for **Accessories** and **Electronics** to provide a filtered view of the dataset without manual table adjustments.
+* **Formula-Driven Logic:** Used `GETPIVOTDATA` and lookup functions to link the front-end KPI cards to the back-end Pivot summaries, ensuring the dashboard updates automatically as the source table grows.
+<img width="1309" height="602" alt="image" src="https://github.com/user-attachments/assets/e6e8a468-4fa0-4230-bccd-687565406d5a" />
+
